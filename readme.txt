@@ -1,3 +1,6 @@
+vgl
+  temp-Bibel-Buecher
+
 
 https://en.wikipedia.org/wiki/Minuscule_464:
 
